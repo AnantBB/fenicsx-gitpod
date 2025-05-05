@@ -1,0 +1,6 @@
+image:
+  file: Dockerfile
+
+tasks:
+  - init: echo "Initializing Gitpod workspace..."
+    command: echo "Ready to run FEniCSx scripts."
